@@ -1,0 +1,8 @@
+{
+  "name": "redirect",
+  "description": "Redirect foo to bar.",
+  "version": "1.0",
+  "permissions": ["webRequest", "webRequestBlocking", "*://*.imgur.com/*"],
+  "background": { "scripts": ["background.js"] },
+  "manifest_version": 2
+}
