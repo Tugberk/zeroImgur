@@ -1,6 +1,6 @@
 {
-  "name": "redirect",
-  "description": "Redirect foo to bar.",
+  "name": "zeroImgur",
+  "description": "Redirect imgur to 0imgur",
   "version": "1.0",
   "permissions": ["webRequest", "webRequestBlocking", "*://*.imgur.com/*"],
   "background": { "scripts": ["background.js"] },
